@@ -1,0 +1,5 @@
+@include('walikelas.layouts.header')
+@include('walikelas.layouts.navbar')
+@include('walikelas.layouts.sidebar')
+@include('walikelas.layouts.content')
+@include('walikelas.layouts.footer')

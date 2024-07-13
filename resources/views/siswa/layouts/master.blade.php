@@ -1,0 +1,5 @@
+@include('siswa.layouts.header')
+@include('siswa.layouts.navbar')
+@include('siswa.layouts.sidebar')
+@include('siswa.layouts.content')
+@include('siswa.layouts.footer')

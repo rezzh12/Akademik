@@ -1,0 +1,5 @@
+@include('pengunjung.layouts.header')
+@include('pengunjung.layouts.navbar')
+@include('pengunjung.layouts.sidebar')
+@include('pengunjung.layouts.content')
+@include('pengunjung.layouts.footer')

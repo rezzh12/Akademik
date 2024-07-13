@@ -1,0 +1,5 @@
+@include('guru.layouts.header')
+@include('guru.layouts.navbar')
+@include('guru.layouts.sidebar')
+@include('guru.layouts.content')
+@include('guru.layouts.footer')
